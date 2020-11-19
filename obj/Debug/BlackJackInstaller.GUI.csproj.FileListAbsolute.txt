@@ -1,0 +1,14 @@
+C:\Users\Fede\source\repos\BlackJackInstaller\BlackJackInstaller.GUI\bin\Debug\BlackJackInstaller.GUI.exe.config
+C:\Users\Fede\source\repos\BlackJackInstaller\BlackJackInstaller.GUI\bin\Debug\BlackJackInstaller.GUI.exe
+C:\Users\Fede\source\repos\BlackJackInstaller\BlackJackInstaller.GUI\bin\Debug\BlackJackInstaller.GUI.pdb
+C:\Users\Fede\source\repos\BlackJackInstaller\BlackJackInstaller.GUI\obj\Debug\BlackJackInstaller.GUI.Form1.resources
+C:\Users\Fede\source\repos\BlackJackInstaller\BlackJackInstaller.GUI\obj\Debug\BlackJackInstaller.GUI.Properties.Resources.resources
+C:\Users\Fede\source\repos\BlackJackInstaller\BlackJackInstaller.GUI\obj\Debug\BlackJackInstaller.GUI.csproj.GenerateResource.cache
+C:\Users\Fede\source\repos\BlackJackInstaller\BlackJackInstaller.GUI\obj\Debug\BlackJackInstaller.GUI.csproj.CoreCompileInputs.cache
+C:\Users\Fede\source\repos\BlackJackInstaller\BlackJackInstaller.GUI\obj\Debug\BlackJackInstaller.GUI.exe
+C:\Users\Fede\source\repos\BlackJackInstaller\BlackJackInstaller.GUI\obj\Debug\BlackJackInstaller.GUI.pdb
+C:\Users\Fede\source\repos\BlackJackInstaller\BlackJackInstaller.GUI\bin\Debug\Microsoft.Dynamic.xml
+C:\Users\Fede\source\repos\BlackJackInstaller\BlackJackInstaller.GUI\bin\Debug\Microsoft.Scripting.xml
+C:\Users\Fede\source\repos\BlackJackInstaller\BlackJackInstaller.GUI\bin\Debug\Microsoft.Scripting.Metadata.xml
+C:\Users\Fede\source\repos\BlackJackInstaller\BlackJackInstaller.GUI\obj\Debug\BlackJackInstaller.GUI.csproj.CopyComplete
+C:\Users\Fede\source\repos\BlackJackInstaller\BlackJackInstaller.GUI\obj\Debug\BlackJackInstaller.GUI.csproj.Fody.CopyLocal.cache
